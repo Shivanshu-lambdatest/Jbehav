@@ -5,7 +5,8 @@
   "capabilities": {
     "build": "jbehave-lambdatest",
     "name": "single_test",
-    "tunnel":true
+    "tunnel":true,
+    "tunnelName": "Jenkins-Tunnel"
   },
 
   "environments": [{
